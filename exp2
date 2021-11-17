@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+	<title>Experimet 2</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<pre>
+	<a href="InlineCSS.html" target="_blank">Inline CSS</a>
+	<a href="internalCSS.html">Internal CSS</a>
+	</pref>
+	<p><a href="#news">Go to the News</a></p>
+	<p><a href="#latestnews">Go to the latest News</a></p>
+	<h1>Welcome</h1>
+	<p>This paragraph welcomes you.</p>
+	<h2><a name="latestnews">latest news</a></h2>
+	<p>This is the section your link will go to.</p>
+	<h2>About</h2>
+	<p>This paragraph talks about us.</p>
+	<h2><a name="news">News</a></h2>
+	<p>This is the section your link will go to.</p>
+	<h1>Here we</h1>
+	<p>This paragraph welcomes you.</p>
+	<h2>Show the</h2>
+	<p>This paragraph talks about us.</p>
+	</body>
+</html>
+	
