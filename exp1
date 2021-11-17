@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+	<title>Experiment 1</title>
+	<meta charset="utf-8"/>
+	<style>
+		th{padding:10px;color:red;}
+		td{padding:7px;text-align:center;color:blue;}
+		p{color:green}
+		div{color:navyblue;font-family:cursive}
+		span{color:brown;text-decoration:underline;font-variant:caps;font-style:italic}
+	</style>
+</head>
+<body>
+	<h1>Fruits</h2>
+	<ol type="i">
+	<li>Apple</li>
+	<li>Banana</li>
+	<li>Mango</li>
+	</ol>
+	<h1>Vegetables</h2>
+	<ul>
+	<li>Potato</li>
+	<li>Tomato</li>
+	<li>Cucumber</li>
+	</ul>
+	<table align="center" cellspacing="0" border="5" style="color:darkviolet">
+	<caption align="bottom" style="font-weight:bold;font-family:sans-serif"/>Prices of fruits and vegetables</caption>
+	<tr>
+	<th>Items</th>
+	<th>Quantity</th>
+	<th>Price</th>
+	</tr>
+	<tr>
+	<td>Apple</td>
+	<td>10</td>
+	<td>20</td>
+	</tr>
+	<tr>
+	<td>Banana</td>
+	<td>10</td>
+	<td>30</td>
+	</tr>
+	<tr>
+	<td>Mango</td>
+	<td>10</td>
+	<td>50</td>
+	</tr>
+	<tr>
+	<td>Potato</td>
+	<td>10</td>
+	<td>30</td>
+	</tr>
+	<tr>
+	<td>Tomato</td>
+	<td>10</td>
+	<td>40</td>
+	</tr>
+	<tr>
+	<td>Cucumber</td>
+	<td>10</td>
+	<td>100</td>
+	</tr>
+	</table>
+	<p><span>Hello..</span>This is developed using html and css. We used cellspacing,cellpadding,table,ordered list and unordered list,table headings,table rows,table data and many more..</p>
+	<div>This is the <span>Experiment 1</span> program output</div>
+</body>
+</html>
