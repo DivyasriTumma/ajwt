@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+	<title>Experiment 4</title>
+	<meta charset='utf-8'>
+	<style>
+	.iecss{background-color:purple;color:yellow;font-family:serif}
+	</style>
+	<link rel="stylesheet" type="text/css" href="exp4css.css">
+</head>
+<body>
+	<p style="background-color:skyblue;color:darkviolet;font-
+
+family:monospace">Hello everyone. Good Morning to everyone. This is Inline CSS. 
+
+Have a nice day. See you soon.</p>
+	<p class="iecss">Hello everyone. Good Morning to everyone. This is 
+
+Internal/Embedded CSS. Have a nice day. See you soon.</p>
+	<h3>Hello everyone. Good Morning to everyone. This is External CSS. Have a 
+
+nice day. See you soon.</h3>
+</body>
+</html>
