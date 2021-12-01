@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF_8"?>
+<web-app>
+	<servlet>
+		<servlet-name>HandHttpReqRes</servlet-name>
+		<servlet-class>HandHttpReqRes</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>HandHttpReqRes</servlet-name>
+		<url-pattern>/HttpReqRes</url-pattern>
+	</servlet-mapping>
+</web-app>
